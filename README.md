@@ -18,11 +18,12 @@ I used an AWS EKS cluster to host my kubernetes with an EC2 worker node.
 
 # Technologies
 
-* Docker
 * Nginx
+* Docker
 * Kuberenetes
-* AWS EKS
 * Jenkins
+* AWS EKS
+
 
 
 
