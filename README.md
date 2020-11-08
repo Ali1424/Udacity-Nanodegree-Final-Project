@@ -16,7 +16,7 @@ I used an AWS EKS cluster to host my kubernetes with an EC2 worker node.
 
 
 
-##Technologies
+#Technologies
 
 * Docker
 * Nginx
