@@ -1,4 +1,4 @@
-Udacity-Nanodegree-Final-Project
+# Udacity-Nanodegree-Final-Project
 
 This project is a docker container, hosted on a kubernetes cluster along with Jenkins and a Jenkins pipeline that builds, pushes to docker hub. Then it trigers an update to the kubernetes cluster using "kubectl set" command.
 I used an AWS EKS cluster to host my kubernetes with an EC2 worker node.
